@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  height: 30%;
+  background-color: black;
+}
+.Header {
+  color: #62a4ab;
+  text-shadow: 2px 2px 3px #c1f762;
+}
+/* write your parent styles in here for your App.js */
+.head {
+  margin-left: 1.2%;
+}
